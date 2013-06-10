@@ -1,0 +1,2 @@
+79028246, 1714300416, i386, <DIR>, , progra~1, <DIR>, , r_s, <DIR>, , recycler, <DIR>, , sp5, <DIR>, , temp, <DIR>, , temps, <DIR>, , user, <DIR>, , winnt, <DIR>, , autoexec.bat, , 0, boot.ini, , 288, boot.old, , 304, bootsect.dos, , 512, command.com, , 57351, config.sys, , 0, dblspace.bin, , 64246, io.sys, , 40847, msdos.sys, , 38186, ntdetect.com, , 26816, ntldr, , 156496, pagefile.sys, , 78643200, 
+
