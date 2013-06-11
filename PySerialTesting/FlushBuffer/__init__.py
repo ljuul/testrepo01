@@ -1,5 +1,5 @@
-from serial.tools import list_ports
-import serial
+from serial.tools import list_ports  # @UnresolvedImport
+import serial  # @UnresolvedImport
 import os
 
 def list_serial_ports():
@@ -20,8 +20,11 @@ def list_serial_ports():
         return [port[0] for port in list_ports.comports()]
 
 def main():
-    available=list_serial_ports()
-    print(available)
+    print list_serial_ports()
+
+
+if __name__ == '__main__':
+    main()
     
 """
 print ser.portstr
